@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Navneet
+	<role> Master
+	<twitter>none
 
 # THANKS
 
