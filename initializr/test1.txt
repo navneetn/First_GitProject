@@ -1,2 +1,3 @@
 This is testing file
 Created in feature branch
+Text added in conflict branch..conflict testing
